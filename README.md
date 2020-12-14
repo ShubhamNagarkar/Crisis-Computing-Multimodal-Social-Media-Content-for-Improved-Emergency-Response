@@ -2,4 +2,4 @@
 
 Please click on the following blogpost link to get the detailed description of this project.
  
-      https://mslovett21.github.io/crisis-computing/
+      [Crisis Computing Blog post](https://mslovett21.github.io/crisis-computing/)
